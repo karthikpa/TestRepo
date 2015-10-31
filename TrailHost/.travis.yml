@@ -1,5 +1,2 @@
 language: csharp
-rvm:
-- latest
-
-sudo: false
+solution: TrailHost.sln
