@@ -11,7 +11,7 @@ using WebMatrix.WebData;
 using TrailHost.Filters;
 using TrailHost.Models;
 
-namespace TrailHost.Controllers
+//namespace TrailHost.Controllers for -ve  test
 {
     [Authorize]
     [InitializeSimpleMembership]
